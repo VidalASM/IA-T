@@ -25,3 +25,14 @@ Instrucciones:
 - Ir a Single Player -> Expansion
 - Seleccionar cualquier usuario
 - Escoger Play Custom, seleccionar un mapa e iniciar un juego
+
+- Ejecutar un juego contra uno mismo
+- Ejecutar Chaoslauncher - MultiInstance.exe como administrador
+- Ir a Multijugador -> Expansión -> PC local
+- Seleccionar cualquier usuario y hacer clic en Aceptar
+- Hacer clic en Crear juego, seleccionar un mapa y hacer clic en Aceptar
+- Volver a Chaoslauncher - Desmarcar BWAPI Injector [RELEASE] para dejar que un humano juegue, deje solo para que AI se reproduzca
+- Ir a Multijugador -> Expansión -> PC local
+- Seleccionar cualquier usuario y hacer clic en Aceptar
+- Unirse al juego existente creado por el otro cliente
+- Tendremos una IA y un jugador normal en una misma máquina
