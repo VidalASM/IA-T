@@ -1,0 +1,27 @@
+Recursos de la máquina:
+- Sistema Operativo: Windows 10 64 bits
+- Procesador: Intel Core i3-2350M CPU 2.30GHz
+- RAM: 3.00 GB
+
+Herramientas:
+- Visual Studio 2013
+- StarCraft: Brood War 1.16.1
+- BWAPI
+
+Instrucciones:
+- Instalar Visual Studio 2013 (La versión 2015 también funciona)
+- Instalar StarCraft: Brood War
+- Actualizar StarCraft: Brood War a la vesión 1.16.1
+- Instalar BWAPI
+
+- Abrir ExampleProjects.sln en el directorio de instalación BWAPI
+- Compilar el proyecto ExampleAIModule en modo RELEASE
+- Copiar ExampleAIModule.dll a bwapi-data/AI dentro de la carpeta de instalación de StarCraft
+
+- Ejecutar Chaoslauncher.exe como administrador (dentro del directorio de BWAPI)
+- Marcar la casilla BWAPI Injector
+- Clickear en Start
+
+- Ir a Single Player -> Expansion
+- Seleccionar cualquier usuario
+- Escoger Play Custom, seleccionar un mapa e iniciar un juego
